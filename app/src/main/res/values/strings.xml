@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">News Fresh</string>
     <string name="image_of_the_news">Image of the news</string>
+    <string name="country">Country</string>
+    <string name="india">India</string>
+    <string name="united_states">United States</string>
+    <string name="united_arab_emirates">United Arab Emirates</string>
+    <string name="business">Business</string>
+    <string name="technology">Technology</string>
+    <string name="health">Health</string>
+    <string name="sports">Sports</string>
+    <string name="category">Category</string>
+    <string name="science">Science</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="general">General</string>
 </resources>

@@ -27,6 +27,7 @@ class NewsListAdapter( private val listener: NewsItemClicked): RecyclerView.Adap
         holder.source.text = currentItem.source
         holder.date.text = currentItem.date
         Glide.with(holder.itemView.context).load(currentItem.imageUrl).into(holder.image)
+
     }
 
     override fun getItemCount(): Int {
